@@ -5,3 +5,6 @@ The repository contain codes for following topics:
 3. Pandas
 4. Matplotlib
 5. Seaborn
+6. Functions
+7.
+8.

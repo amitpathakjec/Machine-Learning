@@ -6,5 +6,7 @@ The repository contain codes for following topics:
 4. Matplotlib
 5. Seaborn
 6. Functions
-7.
-8.
+7. List Comprehension & String Formating
+8. Iterables vs Iterator
+9.
+10.
